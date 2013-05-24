@@ -6,6 +6,7 @@ Converts Tactrix logfiles to Evoscan format along with other scanning features
 
 * LogFixer Documentation
 * Version 1.0 By: Zach Davis All Rights Reserved.
+* Dependencies: __Python-2.x__
 * License: __GPL__
 
 #Description
