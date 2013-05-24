@@ -4,9 +4,9 @@ LogFixer
 Converts Tactrix logfiles to Evoscan format along with other scanning features
 
 
-LogFixer Documentation
-Version 1.0 By: Zach Davis All Rights Reserved.
-License: GPL
+* LogFixer Documentation
+* Version 1.0 By: Zach Davis All Rights Reserved.
+* License: __GPL__
 
 #Description
 
